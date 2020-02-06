@@ -150,7 +150,7 @@ table {
 
 /* Main */
 .main {
-  background: url(../images/main/main.jpg) center no-repeat;
+  background: url(../img/main/main.jpg) center no-repeat;
   height: 550px;
   width: 100%;
 }
@@ -469,7 +469,7 @@ table {
 
 /* location */
 .location {
-  background: url(../images/location/location.jpg) center no-repeat;
+  background: url(../img/location/location.jpg) center no-repeat;
   height: 520px;
   width: 100%;
 }
@@ -514,18 +514,18 @@ table {
 }
 
 .contacts-inner li .contacts-tel {
-  background: url(../images/contacts/phone.png) no-repeat left;
+  background: url(../img/contacts/phone.png) no-repeat left;
   padding: 0 30px;
   font-weight: 700;
 }
 
 .contacts-inner li .contacts-adress {
-  background: url(../images/contacts/location-pin.png) no-repeat left;
+  background: url(../img/contacts/location-pin.png) no-repeat left;
   padding: 0 30px;
 }
 
 .contacts-inner li .contacts-email {
-  background: url(../images/contacts/mail.png) no-repeat left;
+  background: url(../img/contacts/mail.png) no-repeat left;
   padding: 0 30px;
 }
 
